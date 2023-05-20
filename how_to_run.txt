@@ -1,0 +1,4 @@
+How to run:
+Run: npm-i in both bashar and server folders.
+Run: vite or npm run dev in the bashar folder
+Run: node index.js in server directory.
